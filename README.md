@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewoo1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- Junior Engineer
-- Major : Computer Software
-- University : Kwangwoon University
+👩🏻 Junior Engineer <br>
+💻 Major : Computer Software <br>
+🎓 University : Kwangwoon University <br>
 <br>
 
 ## 🌀 Languages
