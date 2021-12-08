@@ -4,7 +4,7 @@
 
 👩🏻 Junior Engineer <br>
 💻 Major : Computer Software <br>
-🎓 University : Kwangwoon University <br>
+🎓 Bachelor : Kwangwoon University <br>
 <br>
 
 ## 🌀 Languages
