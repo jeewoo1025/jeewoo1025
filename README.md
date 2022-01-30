@@ -4,7 +4,8 @@
 
 👩🏻 ML Researcher <br>
 💻 Major : Computer Science <br>
-🎓 B.Sc., [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp), 2022 <br>
+🎓 B.Sc., [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp), 2017 ~ 2022 <br>
+🏃🏻‍♀️ M.Sc., [Hanyang University](http://www.grad.hanyang.ac.kr/), 2022 ~ Present <br>
 <br>
 
 ## 🌀 Languages
@@ -12,7 +13,7 @@
 <br>
 
 [![Jeewoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeewoo1025&show_icons=true&theme=radical)](https://github.com/jeewoo1025/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeewoo1025&layout=compact)](https://github.com/jeewoo1025/github-readme-stats)
 <br>
 
 ## 📬 Contacts
