@@ -2,10 +2,22 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewoo1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👩🏻 ML Researcher <br>
-💻 Major : Computer Science <br>
-🎓 B.Sc., [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp), 2017 ~ 2022 <br>
-🏃🏻‍♀️ M.Sc., [Hanyang University](http://www.grad.hanyang.ac.kr/), 2022 ~ Present <br>
+My research interests include:
+  * Machine Learning & Deep Learning
+  * Natural Language Processing
+  * Text Summarization
+<br>
+
+## 👩🏻‍🎓 Education
+### Bachelor
+* [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp)
+* 2017.3 ~ 2022.2
+* Major : Computer Software
+
+### Master
+* [Hanyang University](http://www.grad.hanyang.ac.kr/)
+* 2022.2 ~ Present
+* Major : Computer Software
 <br>
 
 ## 🌀 Languages
