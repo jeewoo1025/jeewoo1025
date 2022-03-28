@@ -11,12 +11,12 @@ My research interests include:
 ## 👩🏻‍🎓 Education
 ### Bachelor
 * [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp)
-* 2017.3 ~ 2022.2
+* 2017.03 ~ 2022.02
 * Major : Computer Software
 
 ### Master
 * [Hanyang University](http://www.grad.hanyang.ac.kr/)
-* 2022.2 ~ Present
+* 2022.02 ~ Present
 * Major : Computer Software
 <br>
 
