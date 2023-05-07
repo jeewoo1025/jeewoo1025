@@ -5,7 +5,7 @@
 My research interests include:
   * Machine Learning & Deep Learning
   * Natural Language Processing
-  * Text Summarization
+  * Text Summarization, Abstractive Summarization
 <br>
 
 ## 👩🏻‍🎓 Education
