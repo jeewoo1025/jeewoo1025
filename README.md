@@ -17,7 +17,7 @@ My research interests include:
 
 ### Master
 * [Hanyang University](http://www.grad.hanyang.ac.kr/)
-* 2022.03 ~ Present
+* 2022.03 ~ 2024.02
 * Major: Computer Science
 <br>
 
