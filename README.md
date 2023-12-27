@@ -11,13 +11,14 @@ My research interests include:
 
 ## 👩🏻‍🎓 Education
 ### Bachelor
-* [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp)
+* [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp) (Seoul, Korea)
 * 2017.03 ~ 2022.02
 * Major: Computer Science
 
 ### Master
-* [Hanyang University](http://www.grad.hanyang.ac.kr/)
+* [Hanyang University](http://www.grad.hanyang.ac.kr/) (Seoul, Korea)
 * 2022.03 ~ 2024.02
+* Advisor: Yong Suk Choi / Lab: [AI Lab](http://ai.hanyang.ac.kr/main)
 * Major: Computer Science
 <br>
 
