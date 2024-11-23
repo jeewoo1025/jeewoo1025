@@ -7,17 +7,24 @@ My research interests include:
   * Natural Language Processing
   * Text Summarization, Abstractive Summarization
   * Prompt Engineering, Soft Prompt Tuning, Prompt-based Transfer Learning
+  * Code Generation 
+<br>
+
+## 💼 Work Experience
+### LG Electronics
+`2024.02 ~ present`
+* I am a Research Associate at LG Electronics (Seoul, Korea), where I am affiliated with the AI Research Institute.
 <br>
 
 ## 👩🏻‍🎓 Education
-### Bachelor
+### Bachelor 
+`2017.03 ~ 2022.02`
 * [Kwangwoon University](https://www.kw.ac.kr/ko/index.jsp) (Seoul, Korea)
-* 2017.03 ~ 2022.02
 * Major: Computer Science
 
 ### Master
+`2022.03 ~ 2024.02`
 * [Hanyang University](http://www.grad.hanyang.ac.kr/) (Seoul, Korea)
-* 2022.03 ~ 2024.02
 * Advisor: Yong Suk Choi / Lab: [AI Lab](http://ai.hanyang.ac.kr/main)
 * Major: Computer Science
 <br>
