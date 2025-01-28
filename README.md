@@ -2,18 +2,15 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeewoo1025&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-My research interests include:
-  * Machine Learning & Deep Learning
-  * Natural Language Processing
-  * Text Summarization, Abstractive Summarization
-  * Prompt Engineering, Soft Prompt Tuning, Prompt-based Transfer Learning
-  * Code Generation 
+👋 Hello, I am Jeewoo Sul (설지우).
+
+My research lies in the area of natural language proessing with large language models. I had mainly studied Abstractive Summarization and Prompt Tuning (2022-2023). I am currently excited about AI Coding Assistants, Code LLMs, and Code Generation. 
 <br>
 
 ## 💼 Work Experience
 ### LG Electronics
 `2024.02 ~ present`
-* I am a Research Associate at LG Electronics (Seoul, Korea), where I am affiliated with the AI Research Institute.
+* I am a Research Associate at LG Electronics (Seoul, Korea).
 <br>
 
 ## 👩🏻‍🎓 Education
