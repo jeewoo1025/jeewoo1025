@@ -2,7 +2,10 @@
 
 👋 Hello, I am Jeewoo Sul (설지우) (she/her).
 
-My research lies in the area of natural language processing with large language models. I had mainly studied Abstractive Summarization and Prompt Tuning (2022-2023). I am currently excited about AI Coding Assistants, Code LLMs, and Code Generation. 
+I am an AI Research Engineer at LG Electronics’ AI Lab (Seoul, Korea) since February 2024. <br>
+My goal is **to build AI systems that are reliable and beneficial**.
+
+🌐 More about me & my work: https://jeewoo1025.github.io/
 <br>
 
 ## 💼 Work Experience
