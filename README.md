@@ -3,7 +3,7 @@
 👋 Hello, I am Jeewoo Sul (설지우) (she/her).
 
 I am an AI Research Engineer at LG Electronics’ AI Lab (Seoul, Korea) since February 2024. <br>
-My goal is **to build AI systems that are reliable and beneficial**.
+My goal is **to build AI systems that are reliable and valuable**.
 
 🌐 More about me & my work: https://jeewoo1025.github.io/
 <br>
